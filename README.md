@@ -6,8 +6,8 @@ Desenvolvedor web
 
 Tenho um ano de experiência em desenvolvimento da web na parte de front-end, utilizando JavaScript, React e Wordpress para criar templates modernos, bonitos e atraentes.
 
-* 🌍  atualmente em Brasília 
-* 🧠  estudando atualmente: WordPress
+* 🌍  atualmente moro em Brasília 
+* 🧠  estudando no momento: WordPress
 
 Contato
 -----------------
