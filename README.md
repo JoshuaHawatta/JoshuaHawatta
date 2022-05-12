@@ -31,7 +31,7 @@ Contato
 </a>
 
 
-### Skills
+###Skills
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -49,21 +49,40 @@ Contato
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </a>
 
-### Meus status do GitHub
+### Gráfico de commits
+-----------------
 
 <a href="http://www.github.com/JoshuaHawatta">
   <img src="https://activity-graph.herokuapp.com/graph?username=JoshuaHawatta&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width='100%' />
 </a>
 
-<a href="http://www.github.com/JoshuaHawatta">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaHawatta&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JoshuaHawatta's GitHub stats" width='300' />
-</a>
+### Perfil
+-----------------
 
 <a href="http://www.github.com/JoshuaHawatta">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaHawatta&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width='450' />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaHawatta&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JoshuaHawatta's GitHub stats" width='100%' />
 </a>
-  
 
-<a href="https://github.com/JoshuaHawatta">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width='400' align="left" />
+### Streaks totais
+-----------------
+
+<a href="http://www.github.com/JoshuaHawatta">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaHawatta&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width='100%' />
+</a>
+
+Linguagens que mais uso
+-----------------
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
+     alt="Javascript" 
+     width='50%'
+     height='150' />
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+     alt="React"
+     width='50%'
+     height='150' />
 </a>
