@@ -6,9 +6,22 @@ Desenvolvedor web
 
 Tenho um ano de experiência em desenvolvimento da web na parte de front-end, utilizando JavaScript, React e Wordpress para criar templates modernos, bonitos e atraentes.
 
-* 🌍  I'm based in Brasília
-* ✉️  You can contact me at [joshuahawatta@gmail.com](mailto:joshuahawatta@gmail.com)
-* 🧠  I'm learning WordPress
+* 🌍  atualmente em Brasília 
+* 🧠  estudando atualmente: WordPress
+
+Contato
+-----------------
+
+<p align="left">
+  <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.github.com/JoshuaHawatta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="http://www.instagram.com/joshuahawatta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/joshua-hawatta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+</p>
 
 ### Skills
 
@@ -18,11 +31,6 @@ Tenho um ano de experiência em desenvolvimento da web na parte de front-end, ut
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/JoshuaHawatta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/joshuahawatta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joshua-hawatta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
