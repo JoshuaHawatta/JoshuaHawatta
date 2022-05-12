@@ -73,16 +73,7 @@ CONTATO
 ### LINGUAGENS MAIS USADAS
 -----------------
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
-     alt="Javascript" 
-     width='50%'
-     height='150' />
-</a>
+[![JoshuaHawatta's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaHawatta&theme=codeSTACKr&show_icons=true&layout=compact)](https://github.com/JoshuaHawatta/github-readme-stats)
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
-     alt="React"
-     width='50%'
-     height='150' />
-</a>
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&layout=compact&theme=codeSTACKr&show)](https://github.com/JoshuaHawatta/github-readme-stats)
+
