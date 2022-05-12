@@ -1,7 +1,7 @@
-Hi 👋 My name is Joshua Hawatta
+Oi  Meu nome é Joshua! 👋
 ===============================
 
-Desenvolvedor web
+Sou desenvolvedor web
 -----------------
 
 Tenho um ano de experiência em desenvolvimento da web na parte de front-end, utilizando JavaScript, React e Wordpress para criar templates modernos, bonitos e atraentes.
@@ -63,16 +63,8 @@ Contato
 <a href="http://www.github.com/JoshuaHawatta">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaHawatta&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width='500' />
 </a>
-
-<a href="https://github.com/JoshuaHawatta/quiz">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaHawatta&repo=quiz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/JoshuaHawatta/quiz">
-  
-  <a href="https://github.com/JoshuaHawatta/moonetize">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaHawatta&repo=quiz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/JoshuaHawatta/moonetize">
   
 
 <a href="https://github.com/JoshuaHawatta">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width='500' align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width='500' align="left" />
 </a>
