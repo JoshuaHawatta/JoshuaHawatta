@@ -73,7 +73,5 @@ CONTATO
 ### LINGUAGENS MAIS USADAS
 -----------------
 
-[![JoshuaHawatta's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaHawatta&theme=codeSTACKr&show_icons=true&layout=compact)](https://github.com/JoshuaHawatta/github-readme-stats)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&layout=compact&theme=codeSTACKr&show)](https://github.com/JoshuaHawatta/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&layout=compact&theme=codeSTACKr&show&card_width=1000&hide_title=true)](https://github.com/JoshuaHawatta/github-readme-stats)
 
