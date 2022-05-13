@@ -49,7 +49,8 @@ CONTATO
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&theme=codeSTACKr&layout=compact&card_width=500&custom_title=Linguagens_mais_usadas)](https://github.com/JoshuaHawatta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&theme=codeSTACKr&layout=compact&card_width=500&custom_title=Linguagens)](https://github.com/JoshuaHawatta/github-readme-stats)
+
 
 ### STATUS DO MEU GITHUB
 -----------------
