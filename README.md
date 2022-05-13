@@ -49,14 +49,7 @@ CONTATO
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </a>
 
-### MEU PERFIL
------------------
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&theme=codeSTACKr&layout=compact&card_width=500&custom_title=Linguagens)](https://github.com/JoshuaHawatta/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-
-
 
 ### STATUS DO MEU GITHUB
 -----------------
