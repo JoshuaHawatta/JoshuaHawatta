@@ -1,4 +1,4 @@
-Oi Meu nome é Joshua! 👋
+Oi, meu nome é Joshua! 👋
 -----------------
 
 Sou desenvolvedor web
