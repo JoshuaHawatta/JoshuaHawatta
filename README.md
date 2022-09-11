@@ -1,7 +1,4 @@
-Oi, meu nome é Joshua! 👋
------------------
-
-Sou desenvolvedor web
+Oi, meu nome é Joshua e sou desenvolvedor web! 👋
 -----------------
 
 Tenho um ano de experiência em desenvolvimento da web na parte de front-end, utilizando JavaScript/React.js para criar templates modernos, bonitos e atraentes.
@@ -9,7 +6,7 @@ Tenho um ano de experiência em desenvolvimento da web na parte de front-end, ut
 * 🌍  atualmente moro em Brasília 
 * 🧠  estudando no momento: Java
 
-CONTATO
+## CONTATO
 -----------------
 
 <a href="mailto:contato@seu-usuário-aqui" target="_blank" rel="noreferrer">
@@ -30,7 +27,7 @@ CONTATO
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-### SKILLS
+## SKILLS
 -----------------
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
@@ -51,7 +48,7 @@ CONTATO
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&theme=codeSTACKr&layout=compact&card_width=500&custom_title=Linguagens)](https://github.com/JoshuaHawatta/github-readme-stats)
 
-### STATUS DO MEU GITHUB
+## STATUS DO MEU GITHUB
 -----------------
 
 ### Gráfico de commits
