@@ -9,7 +9,7 @@ Tenho um ano de experiência em desenvolvimento da web na parte de front-end, ut
 ## CONTATO
 -----------------
 
-<a href="mailto:contato@seu-usuário-aqui" target="_blank" rel="noreferrer">
+<a href="mailto:joshuahawatta@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
