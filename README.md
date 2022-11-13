@@ -64,7 +64,15 @@ Tenho um ano de experiência em desenvolvimento da web na parte de front-end, ut
   <img alt='mongodb' src='https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4DB33D&color=4DB33D'/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&theme=codeSTACKr&layout=compact&card_width=838&custom_title=Linguagens)](https://github.com/JoshuaHawatta/github-readme-stats)
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='PostgreSQL' src='https://img.shields.io/badge/Postgresql-100000?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&labelColor=0064a5&color=0064a5'/>
+</a>
+
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='mysql' src='https://img.shields.io/badge/Mysql-100000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=00758f&color=00758f'/>
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&theme=codeSTACKr&layout=compact&card_width=800&custom_title=Linguagens)](https://github.com/JoshuaHawatta/github-readme-stats)
 
 ## STATUS DO MEU GITHUB
 -----------------
