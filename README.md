@@ -20,9 +20,11 @@ Tenho um ano de experiência em desenvolvimento da web na parte de front-end, ut
 <a href="https://www.github.com/JoshuaHawatta" target="_blank" rel="noreferrer">
   <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' />
 </a>
+
 <a href="http://www.instagram.com/joshuahawatta" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/joshua-hawatta" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -46,7 +48,23 @@ Tenho um ano de experiência em desenvolvimento da web na parte de front-end, ut
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&theme=codeSTACKr&layout=compact&card_width=500&custom_title=Linguagens)](https://github.com/JoshuaHawatta/github-readme-stats)
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='node.js' src='https://img.shields.io/badge/Node.js-100000?style=for-the-badge&logo=node.js&logoColor=FFFFFF&labelColor=3c873a&color=3c873a'/>
+</a>
+
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='Express' src='https://img.shields.io/badge/Express-100000?style=for-the-badge&logo=Express&logoColor=white&labelColor=282424&color=282424'/>
+</a>
+
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='Sequelize' src='https://img.shields.io/badge/Sequelize-100000?style=for-the-badge&logo=Sequelize&logoColor=white&labelColor=5861A0&color=5861A0'/>
+</a>
+
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='mongodb' src='https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4DB33D&color=4DB33D'/>
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&theme=codeSTACKr&layout=compact&card_width=838&custom_title=Linguagens)](https://github.com/JoshuaHawatta/github-readme-stats)
 
 ## STATUS DO MEU GITHUB
 -----------------
