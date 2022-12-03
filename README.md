@@ -61,7 +61,7 @@ Tenho um ano de experiência em desenvolvimento da web na parte de front-end, ut
 </a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank">
-  <img alt='mongodb' src='https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4DB33D&color=4DB33D'/>
+  <img alt='mongodb' src='https://img.shields.io/badge/MongoDB/Mongoose-100000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4DB33D&color=4DB33D'/>
 </a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank">
