@@ -4,7 +4,7 @@ Oi, meu nome é Joshua e sou desenvolvedor web! 👋
 Tenho um ano de experiência em desenvolvimento da web na parte de front-end, utilizando JavaScript/React.js para criar templates modernos, bonitos e atraentes.
 
 * 🌍  atualmente moro em Brasília 
-* 🧠  estudando no momento: MongoDB/Mongoose e Express
+* 🧠  estudando no momento: TypeScriot e Express
 
 ## CONTATO
 -----------------
