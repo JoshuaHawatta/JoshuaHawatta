@@ -77,12 +77,6 @@ Tenho um ano de experiência em desenvolvimento da web na parte de front-end, ut
 ## STATUS DO MEU GITHUB
 -----------------
 
-### Gráfico de commits
-
-<a href="http://www.github.com/JoshuaHawatta">
-  <img src="https://activity-graph.herokuapp.com/graph?username=JoshuaHawatta&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width='100%' />
-</a>
-
 ### Perfil
 
 <a href="http://www.github.com/JoshuaHawatta">
