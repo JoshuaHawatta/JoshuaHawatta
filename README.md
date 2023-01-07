@@ -57,10 +57,6 @@ Tenho um ano de experiência em desenvolvimento da web na parte de front-end, ut
 </a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank">
-  <img alt='Sequelize' src='https://img.shields.io/badge/Sequelize-100000?style=for-the-badge&logo=Sequelize&logoColor=white&labelColor=5861A0&color=5861A0'/>
-</a>
-
-<a href='https://github.com/shivamkapasia0' target="_blank">
   <img alt='mongodb' src='https://img.shields.io/badge/MongoDB/Mongoose-100000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4DB33D&color=4DB33D'/>
 </a>
 
@@ -70,6 +66,10 @@ Tenho um ano de experiência em desenvolvimento da web na parte de front-end, ut
 
 <a href='https://github.com/shivamkapasia0' target="_blank">
   <img alt='mysql' src='https://img.shields.io/badge/Mysql-100000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=00758f&color=00758f'/>
+</a>
+
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='Sequelize' src='https://img.shields.io/badge/Sequelize-100000?style=for-the-badge&logo=Sequelize&logoColor=white&labelColor=5861A0&color=5861A0'/>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&theme=codeSTACKr&layout=compact&card_width=800&custom_title=Linguagens)](https://github.com/JoshuaHawatta/github-readme-stats)
