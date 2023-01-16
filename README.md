@@ -79,6 +79,10 @@ Skills
   <img alt='Sequelize' src='https://img.shields.io/badge/Sequelize-100000?style=for-the-badge&logo=Sequelize&logoColor=white&labelColor=5861A0&color=5861A0'/>
 </a>
 
+Linguagens mais usadas
+------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
 Gráfico de Commits
 ------------------------
 <a href="http://www.github.com/JoshuaHawatta"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JoshuaHawatta&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
