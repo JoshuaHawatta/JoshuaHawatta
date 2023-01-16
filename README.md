@@ -1,13 +1,20 @@
-Oi, meu nome é Joshua e sou desenvolvedor web! 👋
------------------
+👋 Oi, Meu nome é Joshua Hawatta
+======================================================================================================================================
 
-Tenho um ano de experiência em desenvolvimento da web na parte de front-end, utilizando JavaScript/React.js para criar templates modernos, bonitos e atraentes.
+Desenvolvedor Full-Stack
+------------------------
 
-* 🌍  atualmente moro em Brasília 
-* 🧠  estudando no momento: TypeScript e Express
+Tenho 2 anos de experiência com desenvolvimento web, criando APIs e sites. Utilizo React.js e Express para criar meus projetos, fazendo templates modernos e atraentes.
 
-## CONTATO
------------------
+- 🌍  Estou em Brasília - DF
+- 🖥️  Meu portfólio - [Meu Portifólio](http://joshuahawatta.com)
+- 🧠  Estudando TypeScript e Java
+- 🤝  Aberto para colaborar em Freelancers e Startups
+- ⚡  Habilidade secreta: Designer
+
+------------------------
+Contato
+------------------------
 
 <a href="mailto:joshuahawatta@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -29,8 +36,8 @@ Tenho um ano de experiência em desenvolvimento da web na parte de front-end, ut
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-## SKILLS
------------------
+Skills
+------------------------
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -72,19 +79,12 @@ Tenho um ano de experiência em desenvolvimento da web na parte de front-end, ut
   <img alt='Sequelize' src='https://img.shields.io/badge/Sequelize-100000?style=for-the-badge&logo=Sequelize&logoColor=white&labelColor=5861A0&color=5861A0'/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&theme=codeSTACKr&layout=compact&card_width=800&custom_title=Linguagens)](https://github.com/JoshuaHawatta/github-readme-stats)
+Gráfico de Commits
+------------------------
+<a href="http://www.github.com/JoshuaHawatta"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JoshuaHawatta&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-## STATUS DO MEU GITHUB
------------------
-
-### Perfil
-
-<a href="http://www.github.com/JoshuaHawatta">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaHawatta&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JoshuaHawatta's GitHub stats" width='100%' />
-</a>
-
-### Streaks totais
-
+Streaks totais
+------------------------
 <a href="http://www.github.com/JoshuaHawatta">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaHawatta&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width='100%' />
 </a>
