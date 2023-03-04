@@ -1,4 +1,4 @@
-👋 Oi, Meu nome é Joshua Hawatta
+👋 Oi, meu nome é Joshua Hawatta
 ======================================================================================================================================
 
 Desenvolvedor Full-Stack
@@ -8,7 +8,7 @@ Tenho 2 anos de experiência com desenvolvimento web, criando APIs e sites. Util
 
 - 🌍  Estou em Brasília - DF
 - 🖥️  Meu portfólio - [Joshua Hawatta](http://joshuahawatta.com)
-- 🧠  Estudando TypeScript e Java
+- 🧠  Estudando Next e Java
 - 🤝  Aberto para colaborar em Freelancers e Startups
 - ⚡  Habilidade secreta: Designer
 
