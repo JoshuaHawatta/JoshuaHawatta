@@ -1,7 +1,7 @@
 👋 Oi, meu nome é Joshua Hawatta
 ======================================================================================================================================
 
-Desenvolvedor Full-Stack
+Desenvolvedor Full Stack
 ------------------------
 
 Tenho 2 anos de experiência com desenvolvimento web, criando APIs e sites. Utilizo React e Express para criar meus projetos, fazendo templates modernos e atraentes.
