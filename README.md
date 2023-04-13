@@ -8,7 +8,7 @@ Tenho 2 anos de experiência com desenvolvimento web, criando APIs e sites. Util
 
 - 🌍  Estou em Brasília - DF
 - 🖥️  Meu portfólio - [Joshua Hawatta](http://joshuahawatta.com)
-- 🧠  Estudando Next e Java
+- 🧠  Estudando Angular e Java
 - 🤝  Aberto para colaborar em Freelancers e Startups
 - ⚡  Habilidade secreta: Designer
 
