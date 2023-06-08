@@ -51,8 +51,20 @@ Skills
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
 </a>
 
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=3178c6&color=3178c6'/>
+</a>
+
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</a>
+
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='Next.js' src='https://img.shields.io/badge/Next.js-100000?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=000000&color=000000'/>
+</a>
+
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='Chakra UI' src='https://img.shields.io/badge/Chakra_UI-100000?style=for-the-badge&logo=Chakra UI&logoColor=white&labelColor=67c9cd&color=67c9cd'/>
 </a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank">
@@ -64,19 +76,11 @@ Skills
 </a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank">
-  <img alt='mongodb' src='https://img.shields.io/badge/MongoDB/Mongoose-100000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4DB33D&color=4DB33D'/>
+  <img alt='mongodb' src='https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4DB33D&color=4DB33D'/>
 </a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank">
   <img alt='PostgreSQL' src='https://img.shields.io/badge/Postgresql-100000?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&labelColor=0064a5&color=0064a5'/>
-</a>
-
-<a href='https://github.com/shivamkapasia0' target="_blank">
-  <img alt='mysql' src='https://img.shields.io/badge/Mysql-100000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=00758f&color=00758f'/>
-</a>
-
-<a href='https://github.com/shivamkapasia0' target="_blank">
-  <img alt='Sequelize' src='https://img.shields.io/badge/Sequelize-100000?style=for-the-badge&logo=Sequelize&logoColor=white&labelColor=5861A0&color=5861A0'/>
 </a>
 
 Linguagens mais usadas
