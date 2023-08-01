@@ -7,7 +7,7 @@ Desenvolvedor Full Stack
 Tenho 2 anos de experiência com desenvolvimento web, criando APIs e sites. Utilizo React e Express para criar meus projetos, fazendo templates modernos e atraentes.
 
 - 🌍  Estou em Brasília - DF
-- 🖥️  Meu portfólio - [Joshua Hawatta](http://joshuahawatta.com)
+- 🖥️  Meu portfólio - [Joshua Hawatta](http://joshuahawatta.vercel.app)
 - 🧠  Estudando Next.js (13+)
 - 🤝  Aberto para colaborar em Freelancers e Startups
 - ⚡  Habilidade secreta: Designer
