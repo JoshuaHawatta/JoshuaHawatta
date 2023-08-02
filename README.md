@@ -1,20 +1,18 @@
-👋 Oi, meu nome é Joshua Hawatta
-======================================================================================================================================
+# Joshua Hawatta - desenvolvedor Full-Stack
+#### Portifólio - <code>[Joshua Hawatta](https://joshuahawatta.vercel.app)</code>
 
-Desenvolvedor Full Stack
-------------------------
+#### Tenho 2 anos de experiência com desenvolvimento web, criando APIs, sites e APPs.
 
-Tenho 2 anos de experiência com desenvolvimento web, criando APIs e sites. Utilizo React e Express para criar meus projetos, fazendo templates modernos e atraentes.
+```json
+"sobre_mim": {
+  "atualmente_em": "Brasília - DF"
+  "estudando": ["Next.js (13+)", "Docker"]
+  "disponibilidade": ["Colaboração em Startups", "Trabalho presencial e remoto", "Freelancers"]
+  "habilidade_secreta": "Designer"
+}
+```
 
-- 🌍  Estou em Brasília - DF
-- 🖥️  Meu portfólio - [Joshua Hawatta](http://joshuahawatta.vercel.app)
-- 🧠  Estudando Next.js (13+)
-- 🤝  Aberto para colaborar em Freelancers e Startups
-- ⚡  Habilidade secreta: Designer
-
-------------------------
-Contato
-------------------------
+### Contatos
 
 <a href="mailto:joshuahawatta@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -36,8 +34,34 @@ Contato
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-Skills
-------------------------
+<a href='https://twitter.com/HawattaJoshua' target="_blank">
+  <img alt='twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=111111&color=111111'/>
+</a>
+
+### Skills
+
+#### Principal
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
+</a>
+
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=3178c6&color=3178c6'/>
+</a>
+
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='node.js' src='https://img.shields.io/badge/Node.js-100000?style=for-the-badge&logo=node.js&logoColor=FFFFFF&labelColor=3c873a&color=3c873a'/>
+</a>
+
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='coffeescript' src='https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=coffeescript&logoColor=FFFFFF&labelColor=DE3423&color=DE3423'/>
+</a>
+
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='git' src='https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=F1502F&color=F1502F'/>
+</a>
+
+#### Front-End
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -45,14 +69,6 @@ Skills
 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
-</a>
-
-<a href='https://github.com/shivamkapasia0' target="_blank">
-  <img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=3178c6&color=3178c6'/>
 </a>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -67,12 +83,13 @@ Skills
   <img alt='Chakra UI' src='https://img.shields.io/badge/Chakra_UI-100000?style=for-the-badge&logo=Chakra UI&logoColor=white&labelColor=67c9cd&color=67c9cd'/>
 </a>
 
+#### Back-End
 <a href='https://github.com/shivamkapasia0' target="_blank">
-  <img alt='node.js' src='https://img.shields.io/badge/Node.js-100000?style=for-the-badge&logo=node.js&logoColor=FFFFFF&labelColor=3c873a&color=3c873a'/>
+  <img alt='Express' src='https://img.shields.io/badge/Express-100000?style=for-the-badge&logo=Express&logoColor=white&labelColor=282424&color=282424'/>
 </a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank">
-  <img alt='Express' src='https://img.shields.io/badge/Express-100000?style=for-the-badge&logo=Express&logoColor=white&labelColor=282424&color=282424'/>
+  <img alt='spring' src='https://img.shields.io/badge/Spring_(Spring Boot)-100000?style=for-the-badge&logo=spring&logoColor=FFFFFF&labelColor=6DB33F&color=6DB33F'/>
 </a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank">
@@ -80,19 +97,21 @@ Skills
 </a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank">
-  <img alt='PostgreSQL' src='https://img.shields.io/badge/Postgresql-100000?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&labelColor=0064a5&color=0064a5'/>
+  <img alt='SQL' src='https://img.shields.io/badge/sql-100000?style=for-the-badge&logoColor=FFFFFF&labelColor=0064a5&color=0064a5'/>
 </a>
 
-Linguagens mais usadas
-------------------------
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='Docker' src='https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=Docker&logoColor=white&labelColor=0db7ed&color=0db7ed'/>
+</a>
+
+<a href='' target="_blank">
+  <img alt='solid' src='https://img.shields.io/badge/SOLID-100000?style=for-the-badge&logo=solid&logoColor=FFFFFF&labelColor=7E4ED2&color=7E4ED2'/>
+</a>
+
+### Linguagens mais usadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaHawatta&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-Gráfico de Commits
-------------------------
-<a href="http://www.github.com/JoshuaHawatta"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JoshuaHawatta&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-Streaks totais
-------------------------
+### Streaks totais
 <a href="http://www.github.com/JoshuaHawatta">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaHawatta&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width='100%' />
 </a>
