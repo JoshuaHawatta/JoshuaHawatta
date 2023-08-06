@@ -7,7 +7,7 @@
 "sobre_mim": {
   "atualmente_em": "Brasília - DF"
   "estudando": ["Next.js (13+)", "Docker"]
-  "disponibilidade": ["Colaboração em Startups", "Trabalho presencial ou remoto", "Freelancers"]
+  "disponibilidade": ["Colaboração em Startups", "Trabalho presencial ou remoto", "Freelancer"]
   "habilidade_secreta": "Designer"
 }
 ```
