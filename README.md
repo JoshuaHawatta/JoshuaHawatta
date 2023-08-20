@@ -6,7 +6,7 @@
 ```json
 "sobre_mim": {
   "atualmente_em": "Brasília - DF"
-  "estudando": ["Next.js (13+)", "Docker"]
+  "estudando": ["Nest", "GraphQL"]
   "disponibilidade": ["Colaboração em Startups", "Trabalho presencial ou remoto", "Freelancer"]
   "habilidade_secreta": "Designer"
 }
