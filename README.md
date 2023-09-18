@@ -61,6 +61,10 @@
   <img alt='git' src='https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=F1502F&color=F1502F'/>
 </a>
 
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='jest' src='https://img.shields.io/badge/Jest-100000?style=for-the-badge&logo=jest&logoColor=white&labelColor=c21235&color=c21235'/>
+</a>
+
 #### Front-End
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
@@ -86,6 +90,10 @@
 #### Back-End
 <a href='https://github.com/shivamkapasia0' target="_blank">
   <img alt='Express' src='https://img.shields.io/badge/Express-100000?style=for-the-badge&logo=Express&logoColor=white&labelColor=282424&color=282424'/>
+</a>
+
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='Nestjs' src='https://img.shields.io/badge/Nestjs-100000?style=for-the-badge&logo=Nestjs&logoColor=white&labelColor=ea2845&color=ea2845'/>
 </a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank">
