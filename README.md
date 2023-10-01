@@ -7,7 +7,7 @@
 "sobre_mim": {
   "atualmente_em": "Brasília - DF"
   "estudando": ["Kubernetes", "Kotlin"]
-  "disponibilidade": ["Colaboração em Startups", "Trabalho presencial ou remoto", "Freelancer"]
+  "disponibilidade": ["Trabalho presencial ou remoto", "Freelancer"]
   "habilidade_secreta": "Designer"
 }
 ```
