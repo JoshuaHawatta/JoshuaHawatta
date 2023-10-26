@@ -50,6 +50,10 @@
 </a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='PHP' src='https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=PHP&logoColor=white&labelColor=8993be&color=8993be'/>
+</a>
+
+<a href='https://github.com/shivamkapasia0' target="_blank">
   <img alt='node.js' src='https://img.shields.io/badge/Node.js-100000?style=for-the-badge&logo=node.js&logoColor=FFFFFF&labelColor=3c873a&color=3c873a'/>
 </a>
 
