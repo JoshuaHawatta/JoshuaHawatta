@@ -69,6 +69,10 @@
   <img alt='jest' src='https://img.shields.io/badge/Jest-100000?style=for-the-badge&logo=jest&logoColor=white&labelColor=c21235&color=c21235'/>
 </a>
 
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='amazon' src='https://img.shields.io/badge/AWS-100000?style=for-the-badge&logo=amazon&logoColor=FFFFFF&labelColor=232f3e&color=232f3e'/>
+</a>
+
 #### Front-End
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
@@ -84,11 +88,19 @@
 </a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='Angular' src='https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=Angular&logoColor=white&labelColor=d80982&color=d80982'/>
+</a>
+
+<a href='https://github.com/shivamkapasia0' target="_blank">
   <img alt='Next.js' src='https://img.shields.io/badge/Next.js-100000?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=000000&color=000000'/>
 </a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank">
   <img alt='Chakra UI' src='https://img.shields.io/badge/Chakra_UI-100000?style=for-the-badge&logo=Chakra UI&logoColor=white&labelColor=67c9cd&color=67c9cd'/>
+</a>
+
+<a href='https://github.com/shivamkapasia0' target="_blank">
+  <img alt='tailwindcss' src='https://img.shields.io/badge/tailwindcss-100000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&labelColor=38bdf8&color=38bdf8'/>
 </a>
 
 #### Back-End
