@@ -6,7 +6,7 @@
 ```json
 "sobre_mim": {
   "atualmente_em": "Brasília - DF"
-  "estudando": ["Kubernetes", "PHP"]
+  "estudando": ["Angular 17+", "Java", "AWS (EC2, S3)"]
   "disponibilidade": ["Trabalho presencial ou remoto", "Freelancer"]
   "habilidade_secreta": "Designer"
 }
