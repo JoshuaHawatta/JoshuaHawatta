@@ -6,8 +6,8 @@
 ```json
 "sobre_mim": {
   "atualmente_em": "Brasília - DF"
-  "estudando": ["Angular 17+", "Java", "AWS (EC2, S3)"]
-  "disponibilidade": ["Trabalho presencial ou remoto", "Freelancer"]
+  "estudando": ["Kotlin"]
+  "disponibilidade": ["Trabalho remoto para exterior"]
   "habilidade_secreta": "Designer"
 }
 ```
