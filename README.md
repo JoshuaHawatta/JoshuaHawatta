@@ -1,7 +1,7 @@
 # Joshua Hawatta - desenvolvedor Full-Cycle
 #### Portifólio - <code>[Joshua Hawatta](https://joshuahawatta.vercel.app)</code>
 
-#### Tenho 3 anos e meio de experiência com desenvolvimento web, criando APIs, sites e APPs.
+#### 6 anos de experiência com desenvolvimento web, criando APIs, sites e APPs.
 
 ```json
 "sobre_mim": {
