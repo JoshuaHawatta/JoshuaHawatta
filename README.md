@@ -5,7 +5,7 @@
 
 ```json
 "sobre_mim": {
-  "atualmente_em": "Brasília - DF"
+  "atualmente_em": "Remoto"
   "estudando": ["Go"]
   "disponibilidade": ["Trabalho remoto para exterior"]
   "habilidade_secreta": "Designer"
