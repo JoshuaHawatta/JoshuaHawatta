@@ -6,8 +6,8 @@
 ```json
 "sobre_mim": {
   "atualmente_em": "Remoto"
-  "estudando": ["Go"]
-  "disponibilidade": ["Trabalho remoto para exterior"]
+  "estudando": ["Java", "AWS"]
+  "disponibilidade": ["Trabalho para exterior"]
   "habilidade_secreta": "Designer"
 }
 ```
